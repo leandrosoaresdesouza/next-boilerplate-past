@@ -1,7 +1,7 @@
 import * as S from './styles';
 
 const Main = ({
-  title = 'React Avançado',
+  title = 'Next - Boilerplate',
   description = 'TypeScript, ReactJS, NextJS, Styled Components, Jest e Storybook'
 }) => {
   return (
